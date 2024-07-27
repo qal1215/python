@@ -1,0 +1,37 @@
+id,text,importId,marks,unit,mixChoices
+40,What is the capital of France?,1,10,Geography,0
+41,Describe the process of photosynthesis.,1,15,Biology,0
+42,What is 2 + 2?,1,5,Mathematics,0
+43,"Who wrote ""To Kill a Mockingbird""?",1,10,Literature,0
+44,What is the boiling point of water?,1,10,Chemistry,0
+1045,What is the capital of France?,1,1,10,1
+1046,What is the capital of France?,1,5,Geo,1
+1047,Solve the equation: 2x + 3 = 7,2,10,Math,0
+1048,"Who wrote ""To Kill a Mockingbird""?",3,7,Lit,1
+1049,What is the powerhouse of the cell?,4,8,Bio,1
+1050,Explain the theory of relativity.,5,15,Phys,0
+1051,What is the largest planet in our solar system?,6,5,Geo,1
+1052,What is the boiling point of water?,7,3,Chem,0
+1053,Who painted the Mona Lisa?,8,7,Art,1
+1054,What is the capital of Japan?,9,5,Geo,0
+1055,Define Newton's First Law of Motion.,10,10,Phys,1
+1056,Who discovered penicillin?,11,8,Bio,0
+1057,What is the square root of 64?,12,2,Math,1
+1058,Explain the water cycle.,13,12,Geo,0
+1059,What is the atomic number of Carbon?,14,4,Chem,1
+1060,Who is known as the Father of Computers?,15,9,Tech,0
+1061,What is the formula for calculating the area of a circle?,16,5,Math,1
+1062,"Who wrote ""1984""?",17,6,Lit,0
+1063,Describe the process of photosynthesis.,18,10,Bio,1
+1064,What is the speed of light in vacuum?,19,15,Phys,0
+1065,Who was the first President of the United States?,20,4,Hist,1
+1066,What is the chemical symbol for Gold?,21,2,Chem,0
+1067,Define the Theory of Evolution.,22,11,Bio,1
+1068,What is the Pythagorean Theorem?,23,7,Math,0
+1069,"Who wrote ""The Odyssey""?",24,6,Lit,1
+1070,What is the capital of Australia?,25,5,Geo,0
+1071,Explain the principles of supply and demand.,26,10,Econ,1
+1072,What is the freezing point of water?,27,3,Chem,0
+1073,Who invented the telephone?,28,8,Tech,1
+1074,What is the main function of red blood cells?,29,6,Bio,0
+1075,Define Quantum Mechanics.,30,15,Phys,1

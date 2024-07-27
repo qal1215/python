@@ -1,0 +1,159 @@
+﻿questionId,text
+1,Which factory is used to load SAX parser dynamically at runtime?
+2,Which of the following statements regarding filters and transitions is FALSE?
+3,Which event is trigger when user click right mouse’s button?
+4,Which kind in JavaScript are all objects and Arrays passed to functions by?
+5,What does the combination of multi-pipeline and single-pipeline for?
+6,"""A schema written in W3C Schema Language defines a person's full name as a complex type composed of three child elements: first name, middle name, and last name.""""How should XML Schema author specify the middle name element as optional?"""
+7,Which data type is used to contain the set of attributes of the element node in DOM?
+8,What is difference between schema and DTD?
+9,"""Given JavaScript Code Statement:""""What is name of the value?"""
+10,Which component of JAXB does map a set of existing program elements to a derived schema?
+11,Which of the following statements regarding filters and transitions is FALSE?
+12,Which of the following tags is used to define rules for a leaf element with body text?
+13,Which component of JAXB does map a set of existing program elements to a derived schema?
+14,Which features are JAXB more effective than JAXP parsers?
+15,"""Given JavaScript Code Statement:""""var face = Math.floor( a""""+ Math.random() * b );""""What is name of the b's value?"""
+16,Which of the following packages does present in JAXP belong to SAX?
+17,Which data type is used to contain the set of attributes of the element node in DOM?
+18,"""A schema written in W3C Schema Language defines a person's full name as a complex type composed of three child elements: first name, middle name, and last name.""""How should XML Schema author specify the middle name element as optional?"""
+19,"""The link element in the following XML fragment is the context node. Its target attribute value is stored in linkTarget variable.""""What XPath expression will find the page element whose id attribute value is described by the value of linkTarget variable?""""<site>""""<page id=\""000\""/>""""<page id=\""001\"">""""<page id=\""001_000\"">""""<link target=\""003_000\""/>""""</page>""""<page id=\""001_001\""/>""""</page>""""<page id=\""002\""/>""""<page id=\""003\"">""""<page id=\""003_000\""/>""""<page id=\""003_001\""/>""""</page>""""</site>"""
+20,"""XML data is stored and retrieved within a relational database for a data-centric application by means of mapping XML schema elements to database tables. There are concerns that the queries and updates to this database are slow due to the number of joins required in the SQL.""""Which way is the best option for improving the storage and retrieval of this XML data?"""
+21,"""Consider the XML fragment""""15. <aaa></aaa>""""16. <bbb></bbb>""""Choose the CORRECT answer when the SAX is used to parse above fragment"""
+22,Which factory is used to load SAX parser dynamically at runtime?
+23,Identify the attribute applied to a property to give it precedence over other properties.
+24,Which following language is a very powerful and the mother of all markup languages?
+25,What is difference between schema and DTD?
+26,What will parseInt method do if the string value is passed to parseInt contains a floating-point numeric value?
+27,Which kind in JavaScript are all objects and Arrays passed to functions by?
+28,What does the combination of multi-pipeline and single-pipeline for?
+29,"""A Web application performs a query against a database and uses the results to build Java objects. Next, the system sends the data to a warehouse system which is also Java-based. The warehouse then passes the data to a COBOL-based legacy system.""""At which point is it necessary to convert the data to XML?"""
+30,Which event is trigger when user click right mouse’s button?
+31,"""Given the following XML instance document fragment:""""<country name=\""Afghanistan\"" region=\""Asia\"" area=\""652000\"" population=\""25838797\""/>""""<country name=\""Albania\"" region=\""Europe\"" area=\""28748\"" population=\""3490435\""/>""""...""""Using DOM, which of the following will print out the names of all the countries?"""
+32,Which of the following components must be declared in schema document?
+33,Which data type does unmarshal method accept?
+34,"""Given 02 tags <xml> and <_Name>""""Identify whether the following tags valid or invalid in sequence!"""
+35,Which data type does the getElementsByTagName() method return?
+36,Which of the following about iterator control structure is TRUE in JavaScript?
+37,Which property is used to determine space between the border and its contents in CSS?
+38,"""Given xml document""""<?xml version=\""1.0\"" encoding=\""UTF-8\""?>""""<footballPlayer xmlns:xsi=\""http://www.w3.org/2001/XMLSchema-instance\""""""xmlns:car=\""\""""""xsi:schemaLocation=\""http://xml.netbeans.org/schema/footballPlayer player.xsd\"">""""<name>Kroos</name>""""<club>RealMarid</club>""""<nation>Germany</nation>""""</footballPlayer>""""Choose the CORRECT answer"""
+39,"""Which scope of prefix abc does in following fragment of XML document?""""<root>""""…""""<abc:test xmlns:abc=\""abc.com\"">…</abc:test>""""…""""</root>"""
+40,"What does statement ""A program in which all statements are executed once after the other in the order in which they are written exhibit"" mean?"
+41,Which keyword is used in DTD declaration to describe the body text of XML that will be parsed?
+42,Choose the command that is used to present the static content
+43,Which of the following elements will directly express a logical subset of an existing type declared in an XML schema document?
+44,Why should we declare targetNameSpace in XML Declaration?
+45,"Select a class that provides default implementation of SAX provided handler interfaces like DocumentHandler, DTDHandler and ErrorHandler"
+46,"Which symbol  is used for ""end of a CDATA block"" in XML document?"
+47,Which syntax is used to process a cascading style sheet after parser parsed in XML document?
+48,"""Given code fragment""""5. File f = new File(\""stylesheet.xsl\"")""""6. FileInputStream fis = new FileInputStream(f);""""7. StreamSource src = new StreamSource(fis);""""8. TransformerFactory tf = TransformerFactory.newInstance();""""9. // insert code here""""10. // execute transforming from src to DOM""""Which code fragment, inserted at line 9, enables code is valid?"""
+49,"""What is stored inside the variable value after the following line of code is executed?""""var value = navigator.version;"""
+50,Choose the CORRECT answer about DTD keyword definition
+51,"""A Web application must support a variety of browser types and versions. Information is stored in the database as XML data.""""How and where should the XML document be processed for rendering?"""
+52,"""Given JavaScript statement:""""document.writeln(\""Hello World\"");""""What is the word writeln above statement called?"""
+53,"""Given DTD fragment:""""<!ELEMENT do(message+)>""""Choose the CORRECT statement about xml fragment applying above declaration. Assume that message definition is CORRECT."""
+54,What is the chroma filter used for?
+55,"""Given Java fragment code""""8. public void marshallCollection(Collection collection)""""9. throws Exception {""""10. JAXBContext context = JAXBContext.newInstance(\""test.jaxb\"");""""11. Marshaller marshaller = context.createMarshaller();""""12. marshaller.marshal(collection,""""13. new FileOutputStream(\""jaxbFile\""));""""14. }""""What is the functionality of the code?"""
+56,Which method must be implemented if the developer customizes validation error handling?
+57,Which following symbols are used to open and close processing instructions tag in XML document?
+58,Choose the CORRECT namespace uri of XSL-FO
+59,"""Given JavaScript fragment:""""var value = new Date();""""value = value.valueOf();""""What will value variable contain after the following code is executed?"""
+1064,I love programming in Python.
+1065,I love programming in Python.
+1066,"""Given JavaScript Code Statement:""""What is name of the value?"""
+1067,Which of the following statements regarding filters and transitions is FALSE?
+1068,What does the combination of multi-pipeline and single-pipeline for?
+1069,Which factory is used to load SAX parser dynamically at runtime?
+1070,Which component of JAXB does map a set of existing program elements to a derived schema?
+1071,What is difference between schema and DTD?
+1072,Which event is trigger when user click right mouse’s button?
+1073,"""A schema written in W3C Schema Language defines a person's full name as a complex type composed of three child elements: first name, middle name, and last name.""""How should XML Schema author specify the middle name element as optional?"""
+1074,Which data type is used to contain the set of attributes of the element node in DOM?
+1075,Which kind in JavaScript are all objects and Arrays passed to functions by?
+1076,"""Given JavaScript Code Statement:""""var face = Math.floor( a""""+ Math.random() * b );""""What is name of the b's value?"""
+1077,Which of the following statements regarding filters and transitions is FALSE?
+1078,"""A schema written in W3C Schema Language defines a person's full name as a complex type composed of three child elements: first name, middle name, and last name.""""How should XML Schema author specify the middle name element as optional?"""
+1079,Which of the following packages does present in JAXP belong to SAX?
+1080,Which factory is used to load SAX parser dynamically at runtime?
+1081,Which of the following tags is used to define rules for a leaf element with body text?
+1082,Which data type is used to contain the set of attributes of the element node in DOM?
+1083,Which following language is a very powerful and the mother of all markup languages?
+1084,Which event is trigger when user click right mouse’s button?
+1085,What does the combination of multi-pipeline and single-pipeline for?
+1086,Which kind in JavaScript are all objects and Arrays passed to functions by?
+1087,What will parseInt method do if the string value is passed to parseInt contains a floating-point numeric value?
+1088,Identify the attribute applied to a property to give it precedence over other properties.
+1089,Which component of JAXB does map a set of existing program elements to a derived schema?
+1090,"""XML data is stored and retrieved within a relational database for a data-centric application by means of mapping XML schema elements to database tables. There are concerns that the queries and updates to this database are slow due to the number of joins required in the SQL.""""Which way is the best option for improving the storage and retrieval of this XML data?"""
+1091,"""Consider the XML fragment""""15. <aaa></aaa>""""16. <bbb></bbb>""""Choose the CORRECT answer when the SAX is used to parse above fragment"""
+1092,What is difference between schema and DTD?
+1093,"""A Web application performs a query against a database and uses the results to build Java objects. Next, the system sends the data to a warehouse system which is also Java-based. The warehouse then passes the data to a COBOL-based legacy system.""""At which point is it necessary to convert the data to XML?"""
+1094,"""The link element in the following XML fragment is the context node. Its target attribute value is stored in linkTarget variable.""""What XPath expression will find the page element whose id attribute value is described by the value of linkTarget variable?""""<site>""""<page id=\""000\""/>""""<page id=\""001\"">""""<page id=\""001_000\"">""""<link target=\""003_000\""/>""""</page>""""<page id=\""001_001\""/>""""</page>""""<page id=\""002\""/>""""<page id=\""003\"">""""<page id=\""003_000\""/>""""<page id=\""003_001\""/>""""</page>""""</site>"""
+1095,Which of the following components must be declared in schema document?
+1096,Which features are JAXB more effective than JAXP parsers?
+1097,Choose the command that is used to present the static content
+1098,"What does statement ""A program in which all statements are executed once after the other in the order in which they are written exhibit"" mean?"
+1099,"""Given the following XML instance document fragment:""""<country name=\""Afghanistan\"" region=\""Asia\"" area=\""652000\"" population=\""25838797\""/>""""<country name=\""Albania\"" region=\""Europe\"" area=\""28748\"" population=\""3490435\""/>""""...""""Using DOM, which of the following will print out the names of all the countries?"""
+1100,"""Which scope of prefix abc does in following fragment of XML document?""""<root>""""…""""<abc:test xmlns:abc=\""abc.com\"">…</abc:test>""""…""""</root>"""
+1101,Why should we declare targetNameSpace in XML Declaration?
+1102,Which data type does unmarshal method accept?
+1103,"""Given xml document""""<?xml version=\""1.0\"" encoding=\""UTF-8\""?>""""<footballPlayer xmlns:xsi=\""http://www.w3.org/2001/XMLSchema-instance\""""""xmlns:car=\""\""""""xsi:schemaLocation=\""http://xml.netbeans.org/schema/footballPlayer player.xsd\"">""""<name>Kroos</name>""""<club>RealMarid</club>""""<nation>Germany</nation>""""</footballPlayer>""""Choose the CORRECT answer"""
+1104,Which of the following about iterator control structure is TRUE in JavaScript?
+1105,Which of the following elements will directly express a logical subset of an existing type declared in an XML schema document?
+1106,Which property is used to determine space between the border and its contents in CSS?
+1107,"""Given 02 tags <xml> and <_Name>""""Identify whether the following tags valid or invalid in sequence!"""
+1108,Which syntax is used to process a cascading style sheet after parser parsed in XML document?
+1109,"""What is stored inside the variable value after the following line of code is executed?""""var value = navigator.version;"""
+1110,Choose the CORRECT answer about DTD keyword definition
+1112,I love programming in Python.
+1113,Which of the following tags is used to define rules for a leaf element with body text?
+1114,"""A schema written in W3C Schema Language defines a person's full name as a complex type composed of three child elements: first name, middle name, and last name.""""How should XML Schema author specify the middle name element as optional?"""
+1115,What does the combination of multi-pipeline and single-pipeline for?
+1116,"""Consider the XML fragment""""15. <aaa></aaa>""""16. <bbb></bbb>""""Choose the CORRECT answer when the SAX is used to parse above fragment"""
+1117,What is difference between schema and DTD?
+1118,Which kind in JavaScript are all objects and Arrays passed to functions by?
+1119,Which of the following packages does present in JAXP belong to SAX?
+1120,Which of the following statements regarding filters and transitions is FALSE?
+1121,Which data type is used to contain the set of attributes of the element node in DOM?
+1122,Which features are JAXB more effective than JAXP parsers?
+1123,Which following language is a very powerful and the mother of all markup languages?
+1124,"""XML data is stored and retrieved within a relational database for a data-centric application by means of mapping XML schema elements to database tables. There are concerns that the queries and updates to this database are slow due to the number of joins required in the SQL.""""Which way is the best option for improving the storage and retrieval of this XML data?"""
+1125,"""Given JavaScript Code Statement:""""var face = Math.floor( a""""+ Math.random() * b );""""What is name of the b's value?"""
+1126,Which event is trigger when user click right mouse’s button?
+1127,Which component of JAXB does map a set of existing program elements to a derived schema?
+1128,"""The link element in the following XML fragment is the context node. Its target attribute value is stored in linkTarget variable.""""What XPath expression will find the page element whose id attribute value is described by the value of linkTarget variable?""""<site>""""<page id=\""000\""/>""""<page id=\""001\"">""""<page id=\""001_000\"">""""<link target=\""003_000\""/>""""</page>""""<page id=\""001_001\""/>""""</page>""""<page id=\""002\""/>""""<page id=\""003\"">""""<page id=\""003_000\""/>""""<page id=\""003_001\""/>""""</page>""""</site>"""
+1129,Which factory is used to load SAX parser dynamically at runtime?
+1130,What will parseInt method do if the string value is passed to parseInt contains a floating-point numeric value?
+1131,Identify the attribute applied to a property to give it precedence over other properties.
+1132,"""A Web application performs a query against a database and uses the results to build Java objects. Next, the system sends the data to a warehouse system which is also Java-based. The warehouse then passes the data to a COBOL-based legacy system.""""At which point is it necessary to convert the data to XML?"""
+1133,Which of the following components must be declared in schema document?
+1134,Which data type does unmarshal method accept?
+1135,"""Given the following XML instance document fragment:""""<country name=\""Afghanistan\"" region=\""Asia\"" area=\""652000\"" population=\""25838797\""/>""""<country name=\""Albania\"" region=\""Europe\"" area=\""28748\"" population=\""3490435\""/>""""...""""Using DOM, which of the following will print out the names of all the countries?"""
+1136,Which of the following elements will directly express a logical subset of an existing type declared in an XML schema document?
+1137,"""Which scope of prefix abc does in following fragment of XML document?""""<root>""""…""""<abc:test xmlns:abc=\""abc.com\"">…</abc:test>""""…""""</root>"""
+1138,"""Given 02 tags <xml> and <_Name>""""Identify whether the following tags valid or invalid in sequence!"""
+1139,Choose the command that is used to present the static content
+1140,"""Given xml document""""<?xml version=\""1.0\"" encoding=\""UTF-8\""?>""""<footballPlayer xmlns:xsi=\""http://www.w3.org/2001/XMLSchema-instance\""""""xmlns:car=\""\""""""xsi:schemaLocation=\""http://xml.netbeans.org/schema/footballPlayer player.xsd\"">""""<name>Kroos</name>""""<club>RealMarid</club>""""<nation>Germany</nation>""""</footballPlayer>""""Choose the CORRECT answer"""
+1141,"What does statement ""A program in which all statements are executed once after the other in the order in which they are written exhibit"" mean?"
+1142,Which of the following about iterator control structure is TRUE in JavaScript?
+1143,Why should we declare targetNameSpace in XML Declaration?
+1144,Which property is used to determine space between the border and its contents in CSS?
+1145,Which syntax is used to process a cascading style sheet after parser parsed in XML document?
+1146,Choose the CORRECT answer about DTD keyword definition
+1147,"""What is stored inside the variable value after the following line of code is executed?""""var value = navigator.version;"""
+1148,Which data type does the getElementsByTagName() method return?
+1149,"""Given code fragment""""5. File f = new File(\""stylesheet.xsl\"")""""6. FileInputStream fis = new FileInputStream(f);""""7. StreamSource src = new StreamSource(fis);""""8. TransformerFactory tf = TransformerFactory.newInstance();""""9. // insert code here""""10. // execute transforming from src to DOM""""Which code fragment, inserted at line 9, enables code is valid?"""
+1150,"Which symbol  is used for ""end of a CDATA block"" in XML document?"
+1151,Which keyword is used in DTD declaration to describe the body text of XML that will be parsed?
+1152,"""Given JavaScript statement:""""document.writeln(\""Hello World\"");""""What is the word writeln above statement called?"""
+1153,"Select a class that provides default implementation of SAX provided handler interfaces like DocumentHandler, DTDHandler and ErrorHandler"
+1154,"""Given DTD fragment:""""<!ELEMENT do(message+)>""""Choose the CORRECT statement about xml fragment applying above declaration. Assume that message definition is CORRECT."""
+1155,What is the chroma filter used for?
+1156,"""A Web application must support a variety of browser types and versions. Information is stored in the database as XML data.""""How and where should the XML document be processed for rendering?"""
+1157,"""Given Java fragment code""""8. public void marshallCollection(Collection collection)""""9. throws Exception {""""10. JAXBContext context = JAXBContext.newInstance(\""test.jaxb\"");""""11. Marshaller marshaller = context.createMarshaller();""""12. marshaller.marshal(collection,""""13. new FileOutputStream(\""jaxbFile\""));""""14. }""""What is the functionality of the code?"""
+1158,Which following symbols are used to open and close processing instructions tag in XML document?
+1159,Which method must be implemented if the developer customizes validation error handling?
+1160,Choose the CORRECT namespace uri of XSL-FO
+1161,"""Given JavaScript fragment:""""var value = new Date();""""value = value.valueOf();""""What will value variable contain after the following code is executed?"""
+1164,I love programming in Python.
+1165,I love programming in Python.
